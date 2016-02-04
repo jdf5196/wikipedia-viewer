@@ -1,0 +1,31 @@
+#inputContainer{
+	text-align: center;
+	background: #74A5EF;
+	max-width: 800px;
+	border-radius: 10px;
+}
+#results{
+	margin-top: -20px;
+}
+#resultsList{
+	list-style: none;
+	display: inline;
+}
+#result{
+	background: #74A5EF;
+	max-width: 800px;
+	border-radius: 10px;
+}
+#link{
+	color:black;
+	text-decoration: none;
+}
+#body{
+	background: #3e3d3d;
+}
+#link:hover{
+	color: purple;
+}
+#title, h2{
+	font-weight: bold;
+}
